@@ -1,6 +1,6 @@
 # About-Me
 
-This document includes my CV along with a summary of the certifications and courses I have completed.
+This document includes summary of the certifications and courses I have completed.
 
 # Network Fundamentals Certificate
 In this course, I learned about different network tools and how they are used, as well as the various network protocols and how each protocol functions within its corresponding layer.
